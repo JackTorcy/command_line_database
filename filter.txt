@@ -1,0 +1,9 @@
+************************************
+*----------Filter options----------*
+************************************
+* 1. Filter by Release Year        *
+* 2. Filter by Rating              *
+* 3. Filter by Genre               *
+* 4. Return to MainMenu            *
+* 5. Exit Program                  *
+************************************

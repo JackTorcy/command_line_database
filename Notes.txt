@@ -1,0 +1,20 @@
+with statement - opens and closes file
+cursor() method - has to be defined in order to execute code and fetch data
+First thing to do is connect the database to the python file.
+
+
+https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+-To set up venv
+-go to top search
+-SEARCH FOR
+--'python: Create Environment'
+-'Copy relative path' of 'activate.ps1' to terminal
+--paste
+-'pip install flask' to install flask
+
+
+
+
+WARNING WHEN INSTALL FLASK.
+WARNING: The script flask.exe is installed in 'C:\Users\jack\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
